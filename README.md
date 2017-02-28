@@ -7,5 +7,5 @@ operator keywords, and expression keywords.
 ![](https://raw.githubusercontent.com/gbale/vscode-theme-darkplusplus/master/screenshot.png)
 
 ## More Information
-* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items/gbale.theme-darkplusplus)
+* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bale.theme-darkplusplus)
 * [GitHub Repository](https://github.com/gbale/vscode-theme-darkplusplus)

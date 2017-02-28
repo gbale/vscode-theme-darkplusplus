@@ -1,2 +1,2 @@
-# vscode-theme-dark-plus-plus
+# vscode-theme-darkplusplus
 Dark++ theme for Visual Studio Code.

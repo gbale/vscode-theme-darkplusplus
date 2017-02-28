@@ -1,0 +1,30 @@
+{
+	"name": "Dark++",
+	"include": "./dark_plus.json",
+	"settings": [
+		{
+			"scope": "comment.line",
+			"settings": {
+				"foreground": "#57a64a"
+			}
+		},
+		{
+			"scope": "comment.block",
+			"settings": {
+				"foreground": "#498f8f"
+			}
+		},
+		{
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#678cb1"
+			}
+		},
+		{
+			"scope": ["keyword.operator", "keyword.operator.expression"],
+			"settings": {
+				"foreground": "#9cb4aa"
+			}
+		}
+	]
+}

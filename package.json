@@ -2,29 +2,29 @@
     "name": "theme-darkplusplus",
     "displayName": "Dark++ Theme",
     "description": "An enhanced version of the Visual Studio Code default Dark+ theme.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "bale",
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "^1.22.0"
     },
     "categories": [
         "Themes"
     ],
-	"icon": "icon.png",
-	"homepage": "https://github.com/gbale/vscode-theme-darkplusplus",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/gbale/vscode-theme-darkplusplus.git"
-	},
+    "icon": "icon.png",
+    "homepage": "https://github.com/gbale/vscode-theme-darkplusplus",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gbale/vscode-theme-darkplusplus.git"
+    },
     "bugs": {
         "url": "https://github.com/gbale/vscode-theme-darkplusplus/issues"
     },
-	"contributes": {
+    "contributes": {
         "themes": [
             {
                 "label": "Dark++",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark_plusplus.json"
+                "path": "./theme.json"
             }
         ]
     }

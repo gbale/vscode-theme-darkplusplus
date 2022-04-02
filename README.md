@@ -4,7 +4,7 @@ A dark theme for Visual Studio Code, inspired by default themes in Visual Studio
 The theme is based on Dark+ (default dark) and adjusts colors for block comments, line comments, language constants, operator keywords, expression keywords, and hint diagnostic ellipses.
 
 ## Screenshot
-![](https://raw.githubusercontent.com/gbale/vscode-theme-darkplusplus/master/screenshot.png)
+![](https://raw.githubusercontent.com/gbale/vscode-theme-darkplusplus/main/screenshot.png)
 
 ## More Information
 * [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bale.theme-darkplusplus)

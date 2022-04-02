@@ -2,10 +2,10 @@
     "name": "theme-darkplusplus",
     "displayName": "Dark++ Theme",
     "description": "An enhanced version of the Visual Studio Code default Dark+ theme.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "bale",
     "engines": {
-        "vscode": "^1.22.0"
+        "vscode": "^1.66.0"
     },
     "categories": [
         "Themes"

@@ -3,7 +3,11 @@
     "name": "Dark++",
     "include": "./dark_plus.json",
     "colors": {
-        "editorHint.foreground": "#008000"
+        "editorHint.foreground": "#008000",
+        "statusBar.background": "#333",
+        "statusBar.foreground": "#ddd",
+        "statusBar.debuggingForeground": "#fff",
+        "statusBar.noFolderForeground": "#fff"
     },
     "tokenColors": [
         {

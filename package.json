@@ -24,7 +24,7 @@
             {
                 "label": "Dark++",
                 "uiTheme": "vs-dark",
-                "path": "./theme.json"
+                "path": "./src/theme.json"
             }
         ]
     }

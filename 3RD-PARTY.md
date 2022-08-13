@@ -1,6 +1,14 @@
+# Third Party Acknowledgements
+
+## Visual Studio Code
+https://github.com/microsoft/vscode
+
+- `dark_plus.json`
+- `dark_vs.json`
+
 MIT License
 
-Copyright (c) 2017-present Geoff Bale
+Copyright (c) 2015 - present Microsoft Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

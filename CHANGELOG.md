@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the Dark++ extension will be documented in this file.
 
+## 0.0.6
+- Changed default state status bar color to dark gray
+- Updated with themes from VS Code 1.68 (menu background color) and 1.71 (markdown inline image)
+
 ## 0.0.5
 - Updated with VS Code 1.66 themes
 

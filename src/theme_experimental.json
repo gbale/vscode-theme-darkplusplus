@@ -1,0 +1,37 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "Dark++ (Experimental)",
+    "include": "./dark_plus_experimental.json",
+    "colors": {
+        "editorHint.foreground": "#008000",
+    },
+    "tokenColors": [
+        {
+            "scope": "comment.line",
+            "settings": {
+                "foreground": "#57a64a"
+            }
+        },
+        {
+            "scope": "comment.block",
+            "settings": {
+                "foreground": "#498f8f"
+            }
+        },
+        {
+            "scope": "constant.language",
+            "settings": {
+                "foreground": "#678cb1"
+            }
+        },
+        {
+            "scope": [
+                "keyword.operator",
+                "keyword.operator.expression"
+            ],
+            "settings": {
+                "foreground": "#9cb4aa"
+            }
+        }
+    ]
+}

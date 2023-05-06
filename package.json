@@ -27,9 +27,9 @@
                 "path": "./src/theme.json"
             },
             {
-                "label": "Dark++ V2 (Experimental)",
+                "label": "Dark++ Modern",
                 "uiTheme": "vs-dark",
-                "path": "./src/theme_experimental.json"
+                "path": "./src/theme_modern.json"
             }
         ]
     }

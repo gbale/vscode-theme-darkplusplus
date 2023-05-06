@@ -24,12 +24,12 @@
             {
                 "label": "Dark++",
                 "uiTheme": "vs-dark",
-                "path": "./src/theme.json"
+                "path": "./src/dark++.json"
             },
             {
                 "label": "Dark++ Modern",
                 "uiTheme": "vs-dark",
-                "path": "./src/theme_modern.json"
+                "path": "./src/dark++_modern.json"
             }
         ]
     }

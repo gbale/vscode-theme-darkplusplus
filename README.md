@@ -1,12 +1,11 @@
-# Dark++ Theme for VS Code
-A dark theme for Visual Studio Code, inspired by default themes in Visual Studio & Notepad++.
+# Dark++ for Visual Studio Code
 
-The theme is based on Dark+ (default dark), with adjusted colors for block comments, line comments, language constants, operator keywords, expression keywords, and hint diagnostic ellipses.  
-
-The default state (folder opened, non-debug) status bar color is also changed to dark gray.
+This extension adds **Dark++** and **Dark++ Modern** themes, based on the Visual Studio Code defaults with slightly adjusted syntax highlighting inspired by Visual Studio & Notepad++.
 
 ## Screenshot
 ![](https://raw.githubusercontent.com/gbale/vscode-theme-darkplusplus/main/screenshot.png)
+
+Colors are adjusted for block comments, line comments, language constants, operator keywords, expression keywords, and hint diagnostic ellipses. In Dark++, the default state (folder opened, non-debug) status bar color is changed to dark gray.
 
 ## More Information
 * [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bale.theme-darkplusplus)

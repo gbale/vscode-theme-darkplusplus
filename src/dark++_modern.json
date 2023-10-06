@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Dark++ Modern",
-    "include": "./vscode/dark_plus_experimental.json",
+    "include": "./vscode/dark_modern.json",
     "colors": {
         "editorHint.foreground": "#008000",
     },

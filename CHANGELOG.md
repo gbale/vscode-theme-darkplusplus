@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the Dark++ extension will be documented in this file.
 
+## 0.0.10
+- Updated with VS Code 1.83 themes
+
 ## 0.0.9
 - Updated with VS Code 1.78 themes
 - Dark++ V2 (Experimental) now called Dark++ Modern

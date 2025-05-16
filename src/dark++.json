@@ -9,6 +9,17 @@
         "statusBar.debuggingForeground": "#fff",
         "statusBar.noFolderForeground": "#fff"
     },
+    "semanticHighlighting": true,
+    "semanticTokenColors": {
+        "comment": "#57a64a",
+        "xmlDocCommentAttributeName": "#498f8f",
+        "xmlDocCommentAttributeQuotes": "#498f8f",
+        "xmlDocCommentCDataSection": "#498f8f",
+        "xmlDocCommentComment": "#498f8f",
+        "xmlDocCommentDelimiter": "#498f8f",
+        "xmlDocCommentName": "#498f8f",
+        "xmlDocCommentText": "#498f8f"
+    },
     "tokenColors": [
         {
             "scope": "comment.line",

@@ -11,14 +11,14 @@
     },
     "semanticHighlighting": true,
     "semanticTokenColors": {
-        "comment": "#57a64a",
-        "xmlDocCommentAttributeName": "#498f8f",
-        "xmlDocCommentAttributeQuotes": "#498f8f",
-        "xmlDocCommentCDataSection": "#498f8f",
-        "xmlDocCommentComment": "#498f8f",
-        "xmlDocCommentDelimiter": "#498f8f",
-        "xmlDocCommentName": "#498f8f",
-        "xmlDocCommentText": "#498f8f"
+        "comment:csharp": "#57a64a",
+        "xmlDocCommentAttributeName:csharp": "#9cdcfe",
+        "xmlDocCommentAttributeQuotes:csharp": "#ce9178",
+        "xmlDocCommentCDataSection:csharp": "#498f8f",
+        "xmlDocCommentComment:csharp": "#498f8f",
+        "xmlDocCommentDelimiter:csharp": "#808080",
+        "xmlDocCommentName:csharp": "#569cd6",
+        "xmlDocCommentText:csharp": "#498f8f"
     },
     "tokenColors": [
         {

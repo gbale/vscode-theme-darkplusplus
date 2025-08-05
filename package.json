@@ -2,7 +2,7 @@
     "name": "theme-darkplusplus",
     "displayName": "Dark++ Theme",
     "description": "Enhanced dark themes",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "publisher": "bale",
     "license": "MIT",
     "engines": {

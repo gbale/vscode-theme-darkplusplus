@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the Dark++ extension will be documented in this file.
 
+## 0.0.12
+- Updated with VS Code 1.101 themes
+- Update semantic token colors and scope to csharp
+
 ## 0.0.11
 - Updated with VS Code 1.97 themes
 - Add semantic token colors for comments and XML documentation comments
